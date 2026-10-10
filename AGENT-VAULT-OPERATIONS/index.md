@@ -1,10 +1,10 @@
 ---
-title: Operations
+title: Agent Vault Operations
 type: index
 updated: 2026-10-10
 ---
 
-# Operations
+# Agent Vault Operations
 
 How Good'ai runs, from first hello to paid and supported. Every repeatable job has one page here. If a job happens twice and has no page, write one.
 
