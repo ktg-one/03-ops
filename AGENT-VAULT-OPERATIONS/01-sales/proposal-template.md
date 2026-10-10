@@ -24,7 +24,7 @@ updated: 2026-10-10
 
 **Timing:** [start] to [finish], counted from when access is in place.
 
-**Price:** A$[amount] [incl./excl. GST — confirm with accountant].
+**Price:** A$[amount], including GST.
 **Payment:** [e.g. 50% to start, 50% on acceptance] via [payment link]. Work starts when the deposit clears.
 
 **Support after handover:** [e.g. 14 days of fixes for anything in scope; after that, optional monthly support at A$__]

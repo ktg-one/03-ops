@@ -30,7 +30,7 @@ Track every lead in Todoist (one task per lead, label `lead`) or a simple sheet.
 
 - Contact form at goodai.au/contact (asks: what's taking up your afternoons, what to hand over, where to reply)
 - Business line (08) 7741 4191, answered by our own voice agent
-- Digital Health Check outbound: reports for businesses with weak web scores (see [[../02-delivery/health-check-runbook]]). Free only once Kev starts the promo
+- Digital Health Check outbound: reports for businesses with weak web scores (see [[../02-delivery/health-check-runbook]]). Kev approves each one; no free offer is advertised
 - Referral partners (plan): MSPs and law firms, aiming for 40% of leads
 - CCIWA, workshops and educational content (plan)
 - Ex-clients and warm contacts

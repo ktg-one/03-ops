@@ -10,11 +10,11 @@ How Good'ai runs, from first hello to paid and supported. Every repeatable job h
 
 ## What we sell (source: the business plan)
 
-Prices are the business plan's, confirmed by Kev on 10 Oct 2026. GST treatment is not confirmed yet: don't write "incl." or "excl. GST" anywhere until it is (see [[06-admin/open-decisions]]).
+Prices are the business plan's, confirmed by Kev on 10 Oct 2026. **All prices include GST**: the customer pays the listed price. No promotion or discount is running.
 
 | Tier | Offer | Plan price | Runbook |
 |---|---|---|---|
-| 0 | Digital Health Check (audit + lead gen) | $149 (promo not started) | [[02-delivery/health-check-runbook]] |
+| 0 | Digital Health Check (audit + lead gen) | $149 | [[02-delivery/health-check-runbook]] |
 | 1 | Website bot | $299 setup + $49/mo | [[02-delivery/bot-runbook]] |
 | 2 | Company knowledge bot | $799+ setup + $149-299/mo | [[02-delivery/bot-runbook]] |
 | — | Automations | From $299 + $49+/mo | [[02-delivery/automation-runbook]] |

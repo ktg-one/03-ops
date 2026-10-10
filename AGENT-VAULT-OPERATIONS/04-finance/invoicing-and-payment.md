@@ -6,7 +6,7 @@ updated: 2026-10-10
 
 # Invoicing and payment
 
-> Confirm GST registration status, invoice requirements and the business structure (sole trader vs Pty Ltd) with your accountant. This page is the process, not tax advice.
+> All listed prices include GST: the customer pays the listed price. Once registered for GST, the GST component comes out of that price and shows as a GST line on the invoice. Confirm registration status and invoice requirements with your accountant. This page is the process, not tax advice.
 
 ## How we get paid
 
