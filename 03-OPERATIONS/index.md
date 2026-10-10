@@ -8,6 +8,16 @@ updated: 2026-10-10
 
 How Good'ai runs, from first hello to paid and supported. Every repeatable job has one page here. If a job happens twice and has no page, write one.
 
+## What we sell (launch catalogue, locked 8 Oct 2026)
+
+| Tier | Offer | Price | Runbook |
+|---|---|---|---|
+| 1 | Voice receptionist (Trillet + ElevenLabs) | From $99 | [[02-delivery/voice-agent-runbook]] |
+| 2 | Workflow automation sprint | $400 + monthly (not set) | [[02-delivery/automation-runbook]] |
+| 3 | Good Scan / systems review | Consult only | [[02-delivery/good-scan-runbook]] |
+
+Not for client materials: old forecast figures (A$7,500 build, A$450/mo, A$3,750, A$3,000/mo fractional).
+
 ## The flow
 
 ```
@@ -23,7 +33,7 @@ Enquiry ──► Discovery ──► Proposal ──► Paid ──► Onboard 
 | Sales | [[01-sales/lead-to-cash]] | A lead came in. What now? |
 | Sales | [[01-sales/discovery-call]] | What do I ask on the first call? |
 | Sales | [[01-sales/proposal-template]] | What goes in the proposal? |
-| Delivery | [[02-delivery/opportunity-audit-runbook]] | How do I deliver the audit? |
+| Delivery | [[02-delivery/good-scan-runbook]] | How do I deliver a Good Scan (Deep DIVE)? |
 | Delivery | [[02-delivery/voice-agent-runbook]] | How do I build a phone agent? |
 | Delivery | [[02-delivery/automation-runbook]] | How do I build a workflow automation? |
 | Delivery | [[02-delivery/handover-and-adoption]] | How do I make sure they actually use it? |

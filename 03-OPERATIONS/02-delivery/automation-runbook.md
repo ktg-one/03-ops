@@ -8,6 +8,8 @@ updated: 2026-10-10
 
 For jobs like chasing quotes, moving details between systems, invoice/receipt handling, follow-ups.
 
+**Offer:** Tier 2 in the 8 Oct catalogue: Workflow automation sprint, **$400 + a monthly (not set yet)**. Name the shortcut (e.g. "invoice automation, $400 + monthly"). Deployed in 3-5 days. Usual stack: n8n templates or Google Workspace.
+
 ## 1. Map it (before any build)
 
 Write the job as it happens today, step by step: **trigger → steps → who → which tool → output.** Mark the step where it usually breaks.

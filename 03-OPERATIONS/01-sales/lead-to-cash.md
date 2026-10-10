@@ -28,8 +28,10 @@ Track every lead in Todoist (one task per lead, label `lead`) or a simple sheet.
 
 ## Where leads come from
 
-- Contact form at goodai.au/contact (asks: what's taking up your afternoons, what to hand over, where to reply)
-- Business line (08) 7741 4191, answered by our own voice agent
+- Contact form at goodai.au/contact → `/api/contact` → Resend email (asks: what's taking up your afternoons, what to hand over, where to reply)
+- Business lines 08 7741 4191 and +61 468 058 553, answered by our own voice agent
+- Website chat widget (ElevenLabs agent)
+- Perth Business Huddle members (list in old `leads/Perth Business Huddle/`)
 - Warm outreach (ex-clients and contacts)
 - Referrals
 
@@ -39,7 +41,7 @@ Track every lead in Todoist (one task per lead, label `lead`) or a simple sheet.
 
 ## Warm outreach
 
-> I'm opening a slot for a Good'ai Opportunity audit: we look at how your week actually runs, find the one or two jobs costing you the most time, and hand you a plan for fixing them. Is there something that keeps getting stuck between people or tools? If so, happy to have a short chat to see if it's a fit.
+> I'm opening a couple of slots to set up a phone receptionist that answers when you can't, takes the details and texts them to you. Give our own line a ring on 08 7741 4191 to hear it. Is there something that keeps getting stuck between people or tools? If so, happy to have a short chat to see if it's a fit.
 
 Only say a slot is open if there's capacity. Personalise every message. No bulk sends.
 
