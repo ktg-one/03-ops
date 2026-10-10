@@ -6,7 +6,7 @@ updated: 2026-10-10
 
 # Voice agent (phone answering) runbook
 
-**Offer (business plan):** Voice agent integration on Trillet: an emotive voice agent that answers your phone, WhatsApp and website with a custom personality. **$1,000 setup + $149/month** (plan price, Kev to confirm). The plan's main add-on to sell across all tiers.
+**Offer (business plan):** Voice agent integration on Trillet: an emotive voice agent that answers your phone, WhatsApp and website with a custom personality. **$1,000 setup + $149/month** (business plan price, confirmed 2026-10-10). The plan's main add-on to sell across all tiers.
 **Our own demo:** the business line on goodai.au, (08) 7741 4191.
 
 ## 1. Scope (before build)

@@ -10,7 +10,7 @@ How Good'ai runs, from first hello to paid and supported. Every repeatable job h
 
 ## What we sell (source: the business plan)
 
-Prices are the plan's. Kev to confirm before they go on the site (see [[06-admin/open-decisions]]).
+Prices are the business plan's, confirmed by Kev on 10 Oct 2026.
 
 | Tier | Offer | Plan price | Runbook |
 |---|---|---|---|

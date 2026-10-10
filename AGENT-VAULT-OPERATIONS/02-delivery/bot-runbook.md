@@ -10,7 +10,7 @@ source: Good-AI-Business-Plan.docx (Tier 1, Tier 2)
 | | Tier 1: Website bot | Tier 2: Company knowledge bot |
 |---|---|---|
 | What (plan) | Local semantic chatbot for the website, trained on the client's own content | Custom-trained internal bot on company knowledge |
-| Price (plan, Kev to confirm) | $299 setup + $49/month | $799+ setup + $149-299/month (plan also gives $1,000-3,000 setup by size) |
+| Price (business plan, confirmed) | $299 setup + $49/month | $799+ setup + $149-299/month (plan also gives $1,000-3,000 setup by size) |
 | Hosting (plan) | Small local model (~2GB RAM), website only | Local model for small companies; partner inference for larger ones |
 | Who it's for | SMEs wanting a smart FAQ/enquiry bot that keeps data local | 20-50+ staff companies wanting answers from their own documents |
 

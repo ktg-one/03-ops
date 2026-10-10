@@ -8,7 +8,7 @@ updated: 2026-10-10
 
 For jobs like chasing quotes, moving details between systems, invoice/receipt handling, follow-ups.
 
-**Offer (business plan):** end-to-end automation with orchestration, **from $299 + $49+/month** (plan price, Kev to confirm). Name the shortcut in the pitch (e.g. "invoice chasing, from $299").
+**Offer (business plan):** end-to-end automation with orchestration, **from $299 + $49+/month** (business plan price, confirmed 2026-10-10). Name the shortcut in the pitch (e.g. "invoice chasing, from $299").
 
 ## 1. Map it (before any build)
 
