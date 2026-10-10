@@ -6,8 +6,8 @@ updated: 2026-10-10
 
 # Voice agent (phone answering) runbook
 
-**Stack:** Trillet for telephony (confirmed by Kev 2026-08-24, tested), ElevenLabs voice. Demo lines: 08 7741 4191 (Darling Good, never "fix" it to 4198) and +61 468 058 553.
-**Offer:** Tier 1 in the 8 Oct catalogue: Voice receptionist, **from $99** (lowest tier). Deployed in 48 hours.
+**Offer (business plan):** Voice agent integration on Trillet: an emotive voice agent that answers your phone, WhatsApp and website with a custom personality. **$1,000 setup + $149/month** (plan price, Kev to confirm). The plan's main add-on to sell across all tiers.
+**Our own demo:** the business line on goodai.au, (08) 7741 4191.
 
 ## 1. Scope (before build)
 

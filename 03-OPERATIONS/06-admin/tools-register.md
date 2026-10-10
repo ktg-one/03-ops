@@ -6,19 +6,18 @@ updated: 2026-10-10
 
 # Tools register
 
-Every tool the business runs on. Review monthly; cancel what isn't used. Kev fills cost and owner.
+Every tool the business runs on. Review monthly; cancel what isn't used. Kev fills status, cost and owner where blank.
 
 | Tool | Used for | Status | Monthly cost | Account owner |
 |---|---|---|---|---|
-| goodai.au (Vercel) | Website, contact form, demo | Live | | |
-| Resend | Contact form → email (`/api/contact`) | Live | | |
-| Trillet | Phone lines 08 7741 4191, +61 468 058 553 | Live, tested | | |
-| ElevenLabs | Voice + website chat agent | Live | | |
+| goodai.au | Website, contact form, demo | Live | | |
+| Business line (08) 7741 4191 | Inbound calls, answered by our voice agent | Live | | |
+| Trillet | Voice agents (plan) | | | |
+| Local / partner models | Website and knowledge bots (plan) | | | |
+| NotebookLM (or similar) | Health Check reports, audio, video | | | |
 | Todoist | Tasks, pipeline (the only tracker) | Live | | |
 | Obsidian | Vault | Live | | |
-| GitHub | Code, Good Scan portals (Pages) | Live | | |
-| NotebookLM | Good Scan research + assets | Live | | |
-| n8n | Workflow sprint builds | Parked for the site; used for client builds | | |
-| Google Workspace | Email, docs, private business records | Live | | |
+| GitHub | Code, this repo | Live | | |
 | Payment provider | Taking payment | **Not set up** | | |
 | Accounting (Xero/MYOB/QuickBooks?) | Invoices, BAS | Unknown | | |
+| Automation platform | Client automations | Unknown | | |

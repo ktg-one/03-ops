@@ -8,7 +8,7 @@ updated: 2026-10-10
 
 For jobs like chasing quotes, moving details between systems, invoice/receipt handling, follow-ups.
 
-**Offer:** Tier 2 in the 8 Oct catalogue: Workflow automation sprint, **$400 + a monthly (not set yet)**. Name the shortcut (e.g. "invoice automation, $400 + monthly"). Deployed in 3-5 days. Usual stack: n8n templates or Google Workspace.
+**Offer (business plan):** end-to-end automation with orchestration, **from $299 + $49+/month** (plan price, Kev to confirm). Name the shortcut in the pitch (e.g. "invoice chasing, from $299").
 
 ## 1. Map it (before any build)
 

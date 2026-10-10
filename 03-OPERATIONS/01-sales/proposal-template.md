@@ -29,7 +29,7 @@ updated: 2026-10-10
 
 **Support after handover:** [e.g. 14 days of fixes for anything in scope; after that, optional monthly support at A$__]
 
-**Contract:** for builds over a few hundred dollars, attach the Master Services Agreement (template in old `03-OPERATIONS/admin/03072026 - (TEMPLATE) Master Services Agreement.docx`).
+**Contract:** for builds over a few hundred dollars, use a written services agreement (have a lawyer check the template once).
 
 **To accept:** reply "accepted" from [decision-maker's email], or sign below.
 
