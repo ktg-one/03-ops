@@ -8,7 +8,7 @@ source: Good-AI-Business-Plan.docx (Tier 0, Lead Gen Engine, GTM Phase 1)
 # Digital Health Check runbook
 
 **The offer (business plan, Tier 0):** an AI-powered audit of a business's website and online presence. It's the lead-gen engine: the client sees what's wrong, then picks which of our services to deploy from the report.
-**Price:** $149, with a free promo (business plan, confirmed 2026-10-10).
+**Price:** $149 (business plan, confirmed 2026-10-10). The plan's free promo has **not started**: don't offer it free until Kev launches it. GST treatment not confirmed, so don't quote "incl." or "excl. GST" yet.
 
 ## What the client gets (plan)
 
@@ -22,8 +22,8 @@ Packaged as a one-page interactive website:
 
 | Mode | Who | Price | Purpose |
 |---|---|---|---|
-| **Outbound** | Businesses with the weakest web scores, picked by us | Free | Opens the conversation (marketing-qualified → sales-qualified lead) |
-| **Inbound** | Someone who asks for one | $149 (or free promo) | Paid diagnostic, credited against a build |
+| **Outbound** | Businesses with the weakest web scores, picked by us | Free once the promo starts (not yet) | Opens the conversation (marketing-qualified → sales-qualified lead) |
+| **Inbound** | Someone who asks for one | $149 | Paid diagnostic, credited against a build |
 
 ## Steps
 
