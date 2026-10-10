@@ -17,7 +17,7 @@ Open this first, every time. If it's not linked from here, it's not current.
 |---|---|
 | [[01-COMPANY/index\|01 Company]] | Plan, ethics, registration, financials |
 | [[02-OFFER/index\|02 Offer]] | What we sell and the price |
-| [[03-OPERATIONS/index\|03 Operations]] | How we deliver |
+| [[03-OPS-MANUAL/index\|03 Ops manual]] | How we run: sales, delivery, clients, money, support |
 | [[04-CLIENTS/index\|04 Clients]] | One folder per client |
 | [[05-MARKETING/index\|05 Marketing]] | Website, brand, social, research |
 | [[06-BUILD/index\|06 Build]] | Code and tech experiments |
